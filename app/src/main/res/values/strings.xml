@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+
+
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify</string>
+    <string name="signed_out">Signed Out. If you want to see Hello world! please login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="emailpassword_title_text">Email/password test app</string>
+
+    <string name="reload">Reload</string>
+
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="auth_failed">Authentication failed</string>
+
+</resources>
